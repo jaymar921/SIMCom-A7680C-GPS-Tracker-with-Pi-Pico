@@ -4,6 +4,9 @@ A GPS tracker built with a Raspberry Pi Pico and SIMCom A7680C module.
 Reads GPS coordinates, displays satellite status, sends SMS notifications,
 and exposes a utility hook for sending data to a web API.
 
+> ‼️PS: I find it hard time looking for online sources with the same type of project like this (nah I'm just too lazy to look...), anyways.. if you're willing to contribute, you can do a pull request. Make sure that it's on a separate folder.
+
+
 # Example Output (Serial Monitor):
 
 ```
