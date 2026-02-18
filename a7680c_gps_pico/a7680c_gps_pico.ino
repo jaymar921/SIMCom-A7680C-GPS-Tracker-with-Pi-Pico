@@ -360,7 +360,7 @@ void tryWakeModule()
     if (retryCount % 3 == 0)
     {
       DEBUG_SERIAL.println("Re-pulsing PWRKEY...");
-      powerOnModule();
+      //powerOnModule();
     }
     if (retryCount >= MODULE_RETRY_MAX)
     {
