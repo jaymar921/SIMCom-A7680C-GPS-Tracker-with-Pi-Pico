@@ -57,6 +57,7 @@ Fix #4
 - [Troubleshooting](#troubleshooting)
 - [Expanding the Project](#expanding-the-project)
 - [Photo Documentation](#photo-documentation)
+- [Materials](#materials)
 
 ---
 
@@ -415,3 +416,8 @@ I just connected everything directly without a resistor 😂
 ### SMS Feature
 
 ![Figure](document-references/output/sms.jpg)
+
+## Materials
+
+[![Figure](document-references/materials/a7680c.jpeg)](https://ph.shp.ee/W388yd3)
+[![Figure](document-references/materials/raspberry.jpeg)](https://ph.shp.ee/NK94ub9)
